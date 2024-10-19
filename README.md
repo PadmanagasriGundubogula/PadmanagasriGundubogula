@@ -12,14 +12,16 @@
 [![](https://visitcount.itsvg.in/api?id=PadmanagasriGundubogula&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 
-### Ask me about React, ... or anything
+## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmanagasri4444@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanagasri-gundubogula/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@B-tech_student3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
-### 🛠️ Languages-Frameworks-Tools 🛠️
+---
+
+## Skills & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,22 +32,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### ⚡ Stats ⚡
+---
+
+## GitHub Stats
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PadmanagasriGundubogula&theme=radical&background=FFFFFF)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadmanagasriGundubogula&layout=compact&theme=radical&bg_color=FFFFFF)](https://github.com/PadmanagasriGundubogula/github-readme-stats)
-
-
-
-  
-  <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
-
-
-<!--START_SECTION:activity-->
-
-
-
-
-🗣 Commented on #2944 in actualbudget/actual
-<!--END_SECTION:activity-->
