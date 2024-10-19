@@ -38,18 +38,14 @@
 
 
 
+  
+  <img align="center" src="https://github.com/YourUsername/YourUsername/blob/main/icons/activity.gif"  width="25"/> Recent Activity
 
-  ### Leetcode
-  <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
+<!--START_SECTION:activity-->
 
-  </div>
 
-  ### Codeforces
-  <div align="center">
 
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=YourUsername)
 
-  </div>
-
+🗣 Commented on #2944 in actualbudget/actual
+<!--END_SECTION:activity-->
