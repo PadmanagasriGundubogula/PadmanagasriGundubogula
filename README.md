@@ -11,30 +11,21 @@
 
 [![](https://visitcount.itsvg.in/api?id=PadmanagasriGundubogula&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
+
 ### Ask me about React, ... or anything
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:padmanagasri4444@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanagasri-gundubogula/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat&logo=firefox)](https://your-portfolio-link.com)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@B-tech_student3)
+[![Gmail](https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=green)](mailto:padmanagasri4444@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=green)](https://www.linkedin.com/in/padmanagasri-gundubogula/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=firefox&logoColor=green)](https://your-portfolio-link.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FFFFFF?style=for-the-badge&logo=youtube&logoColor=green)](https://www.youtube.com/@B-tech_student3)
 
 ### 🛠️ Languages-Frameworks-Tools 🛠️
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### ⚡ Stats ⚡
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PadmanagasriGundubogula&show_icons=true&theme=radical&bg_color=FFFFFF)
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PadmanagasriGundubogula&theme=radical&background=FFFFFF)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadmanagasriGundubogula&layout=compact&theme=radical&bg_color=FFFFFF)](https://github.com/PadmanagasriGundubogula/github-readme-stats)
-
-### ⚡ Fun Fact ⚡  
-I love public speaking and have won several awards in **Toastmasters**!
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=green)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=green)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=green)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=green)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=green)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=green)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=green)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=green)
