@@ -6,4 +6,4 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love public speaking and won many achivements and award in Toastmasters!**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋 Hi, I’m **@PadmanagasriGundubogula**;I’m **International Toastmaster**)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Padmanagasri;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
