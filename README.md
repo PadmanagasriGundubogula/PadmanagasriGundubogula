@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Padmanagasri;Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
-                                    - 👋 Hi, I’m **@PadmanagasriGundubogula**
-                      - 👀 I’m interested in **full-stack development, data science, and machine learning.**
-                      - 🌱 I’m currently learning **advanced full-stack development, AI, and web development at NxtWave.**
-                      - 💞️ I’m looking to collaborate on **open-source full-stack projects and innovative AI applications.**
-                      - 📫 How to reach me **padmanagasrigundubogula@gmail.com**
-                      - 😄 Pronouns: **She/Her**
-                      - ⚡ Fun fact: **I love public speaking and won many achivements and award in Toastmasters!**
+Here's a refined and engaging GitHub intro for you:
+
+### 👋 Hi, I’m **Padmanagasri Gundubogula**  
+- 👩‍💻 Passionate about **Full-Stack Development, Data Science, and Machine Learning.**  
+- 🌱 Currently mastering **Advanced Full-Stack Development, AI, and Web Development** at **NxtWave.**  
+- 🚀 Excited to collaborate on **Open-Source Full-Stack Projects** and **Innovative AI Applications.**  
+- 💬 Reach me at: **[padmanagasrigundubogula@gmail.com](mailto:padmanagasrigundubogula@gmail.com)**  
+- 🎤 **Toastmasters Achiever:** A public speaking enthusiast with multiple awards in communication excellence!  
+- 😄 Pronouns: **She/Her**  
+- ⚡ Fun Fact: When I’m not coding, you’ll find me conquering stages as a Toastmasters speaker or exploring new tech trends.
