@@ -8,4 +8,5 @@
 - 🎤 **Toastmasters Achiever:** A public speaking enthusiast with multiple awards in communication excellence!  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun Fact: When I’m not coding, you’ll find me conquering stages as a Toastmasters speaker or exploring new tech trends.
-[![](https://visitcount.itsvg.in/api?id=PadmanagasriGundubogula&label=Profile%20Views&color=3&pretty=true)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=PadmanagasriGundubogula&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
