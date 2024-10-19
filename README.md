@@ -15,9 +15,9 @@
 ## Connect with Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmanagasri4444@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanagasri-gundubogula/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanagasri-gundubogula/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@B-tech_student3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
 ---
 
@@ -29,13 +29,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## GitHub Stats
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PadmanagasriGundubogula&theme=radical&background=FFFFFF)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PadmanagasriGundubogula&theme=radical&background=0D1117)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadmanagasriGundubogula&layout=compact&theme=radical&bg_color=FFFFFF)](https://github.com/PadmanagasriGundubogula/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadmanagasriGundubogula&layout=compact&theme=radical&bg_color=0D1117)](https://github.com/PadmanagasriGundubogula/github-readme-stats)
