@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Padmanagasri;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
-### 👋 Hi, I’m **Padmanagasri Gundubogula**  
+ ### 👋 Hi, I’m **Padmanagasri Gundubogula**  
 - 👩‍💻 Passionate about **Full-Stack Development, Data Science, and Machine Learning**  
 - 🌱 Currently advancing my skills in **Full-Stack Development, AI, and Web Technologies** at **NxtWave**  
 - 🚀 Open to collaborating on **Open-Source Projects** and building **AI-Powered Applications**  
