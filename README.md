@@ -4,7 +4,7 @@
 - 👩‍💻 Passionate about **Full-Stack Development, Data Science, and Machine Learning**  
 - 🌱 Currently advancing my skills in **Full-Stack Development, AI, and Web Technologies** at **NxtWave**  
 - 🚀 Open to collaborating on **Open-Source Projects** and building **AI-Powered Applications**  
-- 🎤 **Toastmasters Award Winner**: A confident public speaker with achievements in communication  
+- 🎤 **International Toastmasters**: A confident public speaker with achievements in communication  
 - 💬 Let’s connect: **[mail](mailto:padmanagasri4444@gmail.com)**  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun Fact: Off the keyboard, I'm either presenting at **Toastmasters** or exploring the latest tech trends
