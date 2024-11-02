@@ -11,7 +11,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=PadmanagasriGundubogula&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
----
+
 
 ## 🌐 Connect with Me
 
@@ -20,7 +20,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@B-tech_student3)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
 
----
+
 
 ## 🛠 Skills & Tools
 
@@ -32,7 +32,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+
 
 ## 📊 GitHub Stats
 
