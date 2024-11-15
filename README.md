@@ -7,7 +7,7 @@
 - 🎤 **International Toastmasters**: A confident public speaker with achievements in communication  
 - 💬 Let’s connect: **[mail](mailto:padmanagasri4444@gmail.com)**  
 - 😄 Pronouns: **She/Her**  
-- ⚡ Fun Fact: Off the keyboard, I'm either presenting at **Toastmasters** or exploring the latest tech trends
+- ⚡ Fun Fact: Off the keyboard, I'm either presenting at **Toastmasters** or exploring the latest tech trends ;or sharing my knowledge to juniors 
 
 [![](https://visitcount.itsvg.in/api?id=PadmanagasriGundubogula&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
