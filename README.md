@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Padmanagasri;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 ### 👋 Hi, I’m **Padmanagasri Gundubogula**  
-- 👩‍💻 Passionate about **Full-Stack Development, AI, NLP, and Speech Recognition**  
+- 👩‍💻 Passionate about **Full-Stack Development, AI, NLP, research development**  
 - 🌱 Currently enhancing my expertise in **FastAPI, Flask, AI-Powered Applications, and NLP** at **NxtWave**  
 - 🚀 Open to collaborating on **Open-Source Projects** and building **AI-based Speech & NLP Solutions**  
 - 🎤 **Toastmasters Achiever**: Winner of the **Triple Crown Award** & a skilled public speaker  
