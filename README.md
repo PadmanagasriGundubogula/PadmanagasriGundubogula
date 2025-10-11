@@ -1,59 +1,65 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+Padmanagasri;Welcome+to+My+GitHub+Profile!)](https://git.io/typing-svg)
+<!-- Elegant GitHub Profile README for Padmanagasri -->
 
-### 👋 Hi, I’m **Padmanagasri Gundubogula**  
-- 👩‍💻 Passionate about **Full-Stack Development, AI, NLP, research development**  
-- 🌱 Currently enhancing my expertise in **FastAPI, Flask, AI-Powered Applications, and NLP** at **NxtWave**  
-- 🚀 Open to collaborating on **Open-Source Projects** and building **AI-based Speech & NLP Solutions**  
-- 🎤 **Toastmasters Achiever**: Winner of the **Triple Crown Award** & a skilled public speaker  
-- 🎓 **Junior Developer Intern @ RCTS IIIT Hyderabad** – **Building NLP-driven Web Apps**  
-- 📢 **Mentoring juniors** in **Frontend & NLP Applications**  
-- 💬 Let’s connect: **[Mail](mailto:padmanagasri4444@gmail.com)**  
-- ⚡ Fun Fact: When I'm not coding, you’ll find me **competing in speech contests or mentoring tech enthusiasts**  
+<h2 align="center">✨ Hi there, I'm <strong>Padmanagasri Gundubogula</strong> ✨</h2>
 
-[![](https://visitcount.itsvg.in/api?id=PadmanagasriGundubogula&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align="center">
+  Passionate about <strong>Full-Stack Development</strong> | <strong>AI & NLP Research</strong> | <strong>Public Speaking</strong>  
+</p>
 
 ---
 
-## 🌐 Connect with Me
+### 🧠 About Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:padmanagasrigundubogula@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/padmanagasri-gundubogula/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@B-tech_student3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)
-
----
-
-## 🛠 Skills & Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF5733?style=for-the-badge&logo=ai&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 💻 Exploring **FastAPI**, **Flask**, and **AI-powered Web Applications** at **NxtWave**  
+- 🤖 Interested in **Speech & NLP Solutions**, bridging technology and communication  
+- 🎓 **Junior Developer Intern @ RCTS, IIIT Hyderabad** — working on **NLP-driven Web Tools**  
+- 🎤 **Toastmasters Achiever** – Winner of the **Triple Crown Award**, public speaker & mentor  
+- 🧩 Guiding juniors in **Frontend** and **AI/NLP Applications**  
+- ✉️ Reach me: [padmanagasri4444@gmail.com](mailto:padmanagasri4444@gmail.com)
 
 ---
 
-## 🏆 Certifications & Achievements
+### 🛠️ Tech Stack
 
-- 🎨 **UI/UX Design @ NXTWAVE**  
-- 🤖 **Generative AI Virtual Internship @ EDUSKILLS**  
-- 💻 **Swecha OS Development @ Swecha IIIT**  
-- 📚 **Foundation of Modern Machine Learning @ IIIT iHUB-data**  
-- 🌐 **Static Website Development @ NXTWAVE**  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,fastapi,mongodb,git,github&perline=5" />
+</p>
 
 ---
 
-## 🎤 Toastmasters & Public Speaking
+### 🏆 Certifications & Highlights
 
-- 🏅 **Triple Crown Award Winner** – Completed three educational paths  
-- 🎭 **Toastmasters Area Contest Representative** – Represented college in **Humorous Speech Contest**  
-- 🎤 **Regular Speaker & Mentor** – Passionate about **communication & leadership**  
+- 🎨 **UI/UX Design** — *NxtWave*  
+- 🤖 **Generative AI Virtual Internship** — *EDUSKILLS*  
+- 💻 **OS Development Workshop** — *Swecha IIIT*  
+- 📚 **Foundations of Modern ML** — *IIIT iHub-Data*  
+- 🌐 **Static Web Development** — *NxtWave*  
 
 ---
 
-👀 **Looking for exciting collaborations?** Let’s build something amazing together! 🚀  
+### 🎤 Toastmasters Journey
+
+- 🏅 **Triple Crown Award Winner**  
+- 🎭 Represented in **Humorous Speech Contest (Area Level)**  
+- 💬 Regular **Speaker & Mentor**, passionate about **communication & leadership**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:padmanagasrigundubogula@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/padmanagasri-gundubogula/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@B-tech_student3"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=firefox&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PadmanagasriGundubogula&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+<h4 align="center">✨ Let’s collaborate and create impactful AI-driven solutions together! ✨</h4>
