@@ -40,16 +40,8 @@
 ### 🎤 Toastmasters Journey
 
 - 🏅 **Triple Crown Award Winner**  
-- 🎭 Represented in **Humorous Speech Contest (Area Level)**  
+- 🎭 Represented in **Humorous Speech Contest (district Level)**  
 - 💬 Regular **Speaker & Mentor**, passionate about **communication & leadership**
-
----
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PadmanagasriGundubogula&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
