@@ -38,33 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PadmanagasriGundubogula&theme=radical&background=0D1117)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PadmanagasriGundubogula&layout=compact&theme=radical&bg_color=0D1117)](https://github.com/PadmanagasriGundubogula/github-readme-stats)
-
----
-
-## 🚀 Current Projects:
-
-- **Data Dialect (2025 - Present)**  
-  🗣 **An NLP-powered speech analytics tool** for analyzing **speech fluency and accuracy**  
-  🔧 **Tech Stack:** NLP, Python, FastAPI  
-
-- **Mental Health AI (2025 - Present)**  
-  🧠 **AI-driven tool analyzing speech patterns** to assess emotional states for mental health applications  
-  🔧 **Tech Stack:** NLP, Python, Speech Recognition  
-
-- **Digits Automated Speech Recognition (2025 - Present)**  
-  🎙 **Voice recognition model** for high-accuracy **digit-based speech processing**  
-  🔧 **Tech Stack:** NLP, Python  
-
-- **To-Do List (Sep 2024)**  
-  📌 **A simple task management app** for organizing daily activities  
-  🔧 **Tech Stack:** HTML, CSS, JavaScript  
-
----
-
 ## 🏆 Certifications & Achievements
 
 - 🎨 **UI/UX Design @ NXTWAVE**  
