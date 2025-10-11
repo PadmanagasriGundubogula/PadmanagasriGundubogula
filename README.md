@@ -15,7 +15,7 @@
 - 🎓 **Junior Developer Intern @ RCTS, IIIT Hyderabad** — working on **NLP-driven Web Tools**  
 - 🎤 **Toastmasters Achiever** – Winner of the **Triple Crown Award**, public speaker & mentor  
 - 🧩 Guiding juniors in **Frontend** and **AI/NLP Applications**  
-- ✉️ Reach me: [padmanagasri4444@gmail.com](mailto:padmanagasri4444@gmail.com)
+- ✉️ Reach me: [padmanagasri4444@gmail.com](mailto:padmanagasrigundubogula@gmail.com)
 
 ---
 
